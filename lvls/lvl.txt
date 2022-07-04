@@ -1,0 +1,8 @@
+lib=pack_1
+3 a 2 0 3 a 2
+b . 8 a 5 . d
+b . . . P . d
+b . . e . . d
+b . S . . 7 1
+b S . . 7 1 0
+4 c c c 1 0 0

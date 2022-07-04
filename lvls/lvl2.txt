@@ -1,0 +1,10 @@
+lib=pack_1
+3 a a a a a a a 2
+b . . . . . . . d
+b . . . . . . . d
+b . . 7 c 6 . . d
+b . . d 0 b . . d
+b . . 8 a 5 . . d
+b . . . . . . . d
+b . . . . . . . d
+4 c c c c c c c 1
