@@ -3,7 +3,7 @@ import tkinter as tk
 from PIL import Image
 
 if __name__ == '__main__':
-    f = input("Lvl file : ")
+    f = "lvls/"+input("Lvl file : ")
     lvl_file = ""
     try:
         lvl_file = open(f, 'r')
